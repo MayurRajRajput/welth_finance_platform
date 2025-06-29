@@ -73,40 +73,58 @@ Navigate to http://localhost:3000
 ```
 
 ## 🔐 Authentication Flow
-```
+
 Sign Up & Sign In using Clerk
+
 Onboarding after auth
+
 Clerk session persists across components
-```
 
 ## ✨ Features
-```
+
 🔐 Secure, role-based authentication with Clerk
+
 📬 Transactional emails via Resend
+
 🤖 AI-enhanced assistance via Gemini API
+
 💳 Finance APIs via Arcjet
+
 📊 Financial dashboard (live demo available)
+
 🌈 Clean and responsive UI (Tailwind CSS)
-```
+
 
 ## 🧑‍💻 Contributing
-```
+
 Fork the repository
+
 Create your feature branch (git checkout -b feature/your-feature)
+
 Commit your changes (git commit -m 'Add your feature')
+
 Push to the branch (git push origin feature/your-feature)
+
 Open a Pull Request
-```
 
 ## 🙌 Acknowledgements
-```
-Clerk.dev
-Prisma ORM
-Vercel
-Google Gemini
-Resend
-Arcjet
-vbnet
-```
 
-## Let me know if you'd like to add badges, screenshots, or deployment instructions!
+Clerk.dev
+
+Prisma ORM
+
+Vercel
+
+Google Gemini
+
+Resend
+
+Arcjet
+
+vbnet
+
+## 👨‍💻 Author
+Made with ❤️ by Mayur Raj Feel free to connect and explore more of my work!
+
+## 🌟 Show your support
+If you found this project helpful, consider giving it a ⭐ on GitHub and sharing it with others!
