@@ -1,4 +1,4 @@
-# Welth Finance Platform 💰
+# Welth AI Finance Platform 💰
 
 A modern finance platform that helps users manage wealth, track transactions, and engage with intelligent financial tools. Built with **Next.js**, **Prisma**, **Clerk**, and integrated AI + email services.
 
