@@ -66,33 +66,40 @@ Navigate to http://localhost:3000
 └── public/           # Static assets
 
 ## 🔐 Authentication Flow
-
--Sign Up & Sign In using Clerk
--Onboarding after auth
--Clerk session persists across components
+```
+Sign Up & Sign In using Clerk
+Onboarding after auth
+Clerk session persists across components
+```
 
 ## ✨ Features
--🔐 Secure, role-based authentication with Clerk
--📬 Transactional emails via Resend
--🤖 AI-enhanced assistance via Gemini API
--💳 Finance APIs via Arcjet
--📊 Financial dashboard (live demo available)
--🌈 Clean and responsive UI (Tailwind CSS)
+```
+🔐 Secure, role-based authentication with Clerk
+📬 Transactional emails via Resend
+🤖 AI-enhanced assistance via Gemini API
+💳 Finance APIs via Arcjet
+📊 Financial dashboard (live demo available)
+🌈 Clean and responsive UI (Tailwind CSS)
+```
 
 ## 🧑‍💻 Contributing
--Fork the repository
--Create your feature branch (git checkout -b feature/your-feature)
--Commit your changes (git commit -m 'Add your feature')
--Push to the branch (git push origin feature/your-feature)
--Open a Pull Request
+```
+Fork the repository
+Create your feature branch (git checkout -b feature/your-feature)
+Commit your changes (git commit -m 'Add your feature')
+Push to the branch (git push origin feature/your-feature)
+Open a Pull Request
+```
 
 ## 🙌 Acknowledgements
--Clerk.dev
--Prisma ORM
--Vercel
--Google Gemini
--Resend
--Arcjet
--vbnet
+```
+Clerk.dev
+Prisma ORM
+Vercel
+Google Gemini
+Resend
+Arcjet
+vbnet
+```
 
 ## Let me know if you'd like to add badges, screenshots, or deployment instructions!
