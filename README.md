@@ -55,7 +55,7 @@ npm run dev
 Navigate to http://localhost:3000
 
 ## 📁 Project Structure
-
+```
 ├── app/              # App Router pages
 ├── components/       # Reusable UI components
 ├── data/             # Static/sample data
@@ -64,6 +64,7 @@ Navigate to http://localhost:3000
 ├── lib/              # Utility modules and helpers
 ├── prisma/           # Prisma schema and seed
 └── public/           # Static assets
+```
 
 ## 🔐 Authentication Flow
 ```
