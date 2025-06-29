@@ -30,9 +30,12 @@ cd welth_finance_platform
 ```
 
 ### 2. Install dependencies
+```
 npm install
+```
 
 ### 3. Set up environment variables
+```
 Create a .env file in the root directory and add:
 
 DATABASE_URL=
@@ -49,10 +52,13 @@ GEMINI_API_KEY=
 RESEND_API_KEY=
 ARCJET_KEY=
 🛠 You need valid API keys from Clerk, Gemini, Resend, and Arcjet
+```
 
 ### 4. Run the development server
+```
 npm run dev
 Navigate to http://localhost:3000
+```
 
 ## 📁 Project Structure
 ```
