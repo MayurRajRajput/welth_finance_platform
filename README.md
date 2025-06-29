@@ -10,8 +10,8 @@ A modern finance platform that helps users manage wealth, track transactions, an
 
 ## 🧩 Tech Stack
 
-- **Frontend**: Next.js 14 (App Router), TypeScript, Tailwind CSS
-- **Backend**: Prisma ORM, PostgreSQL (or any SQL DB)
+- **Frontend**: Next.js 14 (App Router), JavaScript, Tailwind CSS
+- **Backend**: Prisma, PostgreSQL
 - **Authentication**: Clerk
 - **AI Integration**: Google Gemini API
 - **Email Service**: Resend
